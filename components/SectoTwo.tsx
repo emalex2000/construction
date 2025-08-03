@@ -1,6 +1,6 @@
 export default function SectionTwo() {
   return (
-    <div className="bg-[url('/home.png')] bg-cover bg-center h-screen w-full text-white flex items-center justify-center">
+    <div className="bg-[url('/home.png')] bg-[#1a1a1a] bg-cover bg-center h-screen w-full text-white flex items-center justify-center">
       <div className="bg-black/60 w-full max-w-3xl px-4 sm:px-6 md:px-10 py-8 rounded flex flex-col justify-center">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">
           We Are Committed To Build Better
