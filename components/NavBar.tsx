@@ -38,7 +38,7 @@ export default function NavBar() {
               <span className="absolute left-0 -bottom-1 h-[2px] w-0 bg-red-600 transition-all duration-300 group-hover:w-full" />
             </Link>
           ))}
-          <Link href="/contact">
+          <Link href="/contact-us">
             <BlurryButton
               text="Contact Us"
               className="w-[145px] text-[1rem] h-[55px] rounded"
